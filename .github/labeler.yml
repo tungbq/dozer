@@ -1,5 +1,5 @@
 doc-update-needed:
-- dozer-types/src/model/*
-- dozer-cli/src/cli_types/*
-- dozer-types/proto/*
-- proto.tmpl
+  - dozer-types/src/model/**/*
+  - dozer-cli/src/cli_types/**/*
+  - dozer-types/proto/**/*
+  - proto.tmpl
