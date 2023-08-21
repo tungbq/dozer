@@ -1,4 +1,4 @@
-// test v1.1
+// test v1.2
 use clap::{Args, Parser, Subcommand};
 
 use super::helper::{DESCRIPTION, LOGO};
