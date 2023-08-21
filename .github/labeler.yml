@@ -4,4 +4,4 @@
   - dozer-types/src/model/*
   - dozer-cli/src/cli/types.rs
   - dozer-types/protos/*.rs
-  - **/proto.tmpl
+  - dozer-api/src/generator/protoc/generator/template/proto.tmpl
